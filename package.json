@@ -1,0 +1,14 @@
+{
+  "name": "single_toll",
+  "version": "1.0.0",
+  "description": "single toll",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhilesh Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
